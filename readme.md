@@ -1,16 +1,16 @@
-<h1 align="center"> Lintree_gaying</h1>
+<h1 align="center"> gaiyingLinks</h1>
 
 <p align="center">
- Pagina de links para uma tienda de ropa virtual.....
+ Pagina de links para uma tienda de ropa virtual..
 </p>
 
 <p align="center">
-  <img alt="layout da pagina" src=".github/layout.png" width="100%">
+  <img alt="layout da pagina" src=".github/cover.png" width="100%">
 </p>
 
-# DevLinks 
+# GaiyingLinks 
 
-O Devlinks é um agregador de links para usar como carton de visitas online 
+GaiyingLinks é um agregador de links para usar como carton de visitas online 
 
 
 ## 🚀 Tecnologias
@@ -50,4 +50,3 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
