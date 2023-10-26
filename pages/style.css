@@ -57,6 +57,7 @@ ul {
 
 img {
   max-width: 100%;
+  border-radius: 2rem;
 }
 
 section {
@@ -127,7 +128,7 @@ section .content p {
 }
 
 .button:hover {
-  background-color: var(--brand-dark);
+  background-color: #1C1C1C;
 }
 
 .social-links {
@@ -141,12 +142,12 @@ section .content p {
   fill: var(--brand-light);
 }
 
-#navigation .logo path[fill*='#00856F'],
+#navigation .logo path[fill*='#1C1C1C'],
 #backToTopButton circle {
   fill: var(--primary-color);
 }
 
-button.open-menu path[stroke*='#00856F'],
+button.open-menu path[stroke*='#1C1C1C'],
 #contact li path {
   stroke: var(--primary-color);
 }
@@ -156,7 +157,7 @@ body.menu-expanded #navigation .logo path,
   fill: white;
 }
 
-#navigation.scroll button.open-menu path[stroke*='#00856F'] {
+#navigation.scroll button.open-menu path[stroke*='#1C1C1C'] {
   stroke: white;
 }
 
