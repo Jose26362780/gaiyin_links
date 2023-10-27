@@ -10,8 +10,8 @@
   --primary-color: 	#808080;
   
   
-  --headline: white;
-  --paragraph: #A9A9A9;
+  --headline: #DCDCDC;
+  --paragraph:#D3D3D3;
 
   --brand-beige: #C0C0C0;
   --brand-light: white;
@@ -71,7 +71,7 @@ section header h4 {
   font-weight: 700;
   line-height: 150%;
   letter-spacing: 0.08rem;
-  color: var(--primary-color);
+  color: 	#D3D3D3;
 
   text-transform: uppercase;
 
@@ -98,8 +98,9 @@ section .content p {
   font-size: 1.6rem;
   line-height: 150%;
 
-  color: var(--paragraph);
+  color: #363636;
 }
+
 
 .button {
   background: var(--primary-color);
@@ -128,7 +129,7 @@ section .content p {
 }
 
 .button:hover {
-  background-color: #1C1C1C;
+  background-color: 	#696969;
 }
 
 .social-links {
@@ -139,7 +140,7 @@ section .content p {
 }
 
 #services .card circle {
-  fill: var(--brand-light);
+  fill:#808080;
 }
 
 #navigation .logo path[fill*='#1C1C1C'],
@@ -172,6 +173,7 @@ nav {
   width: 100vw; /*vw é uma unidade de medida da viewport*/
 
   z-index: 100;
+  
 }
 
 nav .wrapper {
@@ -181,7 +183,7 @@ nav .wrapper {
 }
 
 nav.scroll {
-  background: var(--primary-color);
+  background:red;
 }
 
 nav button {
@@ -301,7 +303,7 @@ body.menu-expanded button path {
   content: '';
   width: 100%;
   height: calc(76% + var(--nav-height));
-  background-color:#4A4A4A ;
+  background-color:#4A4A4A;
   display: block;
 
   position: absolute;
@@ -348,7 +350,7 @@ body.menu-expanded button path {
 
 #home .stat h3 {
   font-size: 4.8rem;
-  color: var(--headline);
+  color: #A9A9A9;
   line-height: 130%;
 
   margin-bottom: 0.4rem;
@@ -356,7 +358,7 @@ body.menu-expanded button path {
 
 #home .stat p {
   margin: 0;
-  color: var(--primary-color);
+  color: #D3D3D3;
   font-size: 1.6rem;
   line-height: 150%;
 }
@@ -389,7 +391,7 @@ body.menu-expanded button path {
 /*===ABOUT=================================*/
 #about {
   text-align: left;
-  background-color: rgba(74, 74, 74, 1) ;
+  background-color: #4F4F4F ;
 }
 
 #about header h2 {
@@ -399,6 +401,7 @@ body.menu-expanded button path {
 #about .content p {
   margin-top: 2.4rem;
   margin-bottom: 6rem;
+  color:#D3D3D3;
 }
 
 /*===CONTACT=================================*/
@@ -416,6 +419,7 @@ body.menu-expanded button path {
   gap: 1.6rem;
 
   margin-bottom: 3.2rem;
+  color:#D3D3D3;
 }
 
 #contact ul li {
@@ -727,6 +731,7 @@ footer .social-links {
   /*===FOOTER=================================*/
   footer {
     padding-block: 8rem;
+    text-decoration:none;
   }
 
   footer .wrapper {
@@ -746,4 +751,5 @@ footer .social-links {
   footer p {
     margin-bottom: 0;
   }
+ 
 }
