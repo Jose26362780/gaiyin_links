@@ -1,3 +1,6 @@
+var navigation = document.getElementById('navigation'); // Reemplaza 'tuElementoDeNavegacion' con el ID correcto de tu elemento de navegación
+
+
 window.addEventListener('scroll', onScroll)
 
 onScroll()// função acciona quando é movido o mouse//
