@@ -139,6 +139,7 @@ section .content p {
   gap: 3.2rem; /*o rem é o que faz acompanhar o tamanho*/
 }
 
+
 #services .card circle {
   fill:#808080;
 }
@@ -173,7 +174,9 @@ nav {
   width: 100vw; /*vw é uma unidade de medida da viewport*/
 
   z-index: 100;
-  
+  /*color de fondo de navbar*/
+  background-color: #363636;
+  border-bottom : 1px solid #4a4a4a;
 }
 
 nav .wrapper {
@@ -183,7 +186,8 @@ nav .wrapper {
 }
 
 nav.scroll {
-  background:red;
+  background:#1C1C1C;
+ 
 }
 
 nav button {

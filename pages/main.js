@@ -1,4 +1,5 @@
 window.addEventListener('scroll', onScroll)
+var navigation = document.getElementById("navigation")
 
 onScroll()// função acciona quando é movido o mouse//
 function onScroll() {
