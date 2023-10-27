@@ -1,7 +1,7 @@
 <h1 align="center"> gaiyingLinks</h1>
 
 <p align="center">
- Pagina de links para uma tienda de ropa virtual junto com uma landing page da pagina de produtos da marca 
+ Pagina de links para uma loja de roupa virtual junto com uma landing page da pagina dos produtos da marca 
 </p>
 
 <p align="center">
