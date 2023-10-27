@@ -1,16 +1,20 @@
 <h1 align="center"> gaiyingLinks</h1>
 
 <p align="center">
- Pagina de links para uma tienda de ropa virtual..
+ Pagina de links para uma tienda de ropa virtual junto com uma landing page da pagina de produtos da marca 
 </p>
 
 <p align="center">
   <img alt="layout da pagina" src=".github/cover.png" width="100%">
 </p>
 
+<p align="center">
+  <img alt="layout da pagina" src=".github/page.png" width="100%">
+</p>
+
 # GaiyingLinks 
 
-GaiyingLinks é um agregador de links para usar como carton de visitas online 
+GaiyingLinks é um agregador de links para usar como carton de visitas online junto com uma landing page para ter a informação dos produtos 
 
 
 ## 🚀 Tecnologias
