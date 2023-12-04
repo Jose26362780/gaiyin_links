@@ -57,10 +57,14 @@ ul {
 
 img {
   max-width: 100%;
-  border-radius: 6rem;
-  padding-top:1.5rem;
+  border-radius: 3rem;
+ 
 
 }
+.card > img {
+   padding-top:2rem;
+   border-radius: 6rem;
+} 
 
 section {
   padding-block: 10rem;
